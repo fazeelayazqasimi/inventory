@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "salamtec.pk",
+            "password": "salamtec-123",
+            "role": "admin"
+        },
+        {
+            "username": "fazeelayaz",
+            "password": "fazeel-123",
+            "role": "view"
+        },
+        {
+            "username": "Abdulhaseeb",
+            "password": "haseeb-123",
+            "role": "user"
+        }
+    ]
+}
